@@ -6,7 +6,9 @@ https://www.raywenderlich.com/android/learn
 https://www.raywenderlich.com/949489-espresso-testing-and-screen-robots-getting-started
 # Why?
 Currently, we have {otherTesters} who are adept at iOS but in the testing discipline, we are missing skills in automating Android. In 1:1s with {testers}, they have both said that they want to grow their automation skills as a priority in their development. From a company perspective, really want to get Android acceptance tests and end to end tests automated, with tester skills, not only developer skills which we are currently relying on.
-How they gonna have time for that?
+
+# How they gonna have time for that?
+
 We are specifying 2 hours a week for {testers} to run through the training.
 # And if they have questions?
 We have set up a slack channel, #learning-android where {testers} can put questions in, ready for their weekly mentoring session. The questions generally won't be answered in the slack channel, they will be answered in the mentoring session.
@@ -27,6 +29,7 @@ So we all have an understanding of what we are setting out to achieve, the objec
 **Build simple Android apps with guidance of a mentor and a video course**
 
 Complete the Android and Kotlin for beginners video course https://www.raywenderlich.com/android/learn
+
 In a Tester Gathering, show one of the apps created during the course and explain how the app works and what was needed to build the app
 
 Work with an assigned developer mentor to gain an understanding of Android
