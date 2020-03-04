@@ -26,4 +26,4 @@ A workshop to identify with teams how they aim to tackle testing within their sq
 A page in {wiki} will be created for the team around testing which can be referred to. The testing layers will be clearly drawn out in {diagramTool} and the definitions will be attached.
 
 # How can I run this session?
-There is a mural template that can be found here: https://app.mural.co/template/da3aeac9-e995-4456-8497-fd9a03333a58/914ff0f0-5898-43bb-9105-914358aa6c3c
+There is a mural template that can be found  [here](https://app.mural.co/template/da3aeac9-e995-4456-8497-fd9a03333a58/914ff0f0-5898-43bb-9105-914358aa6c3c) and there's also a .png you can use [here](https://github.com/gwendiagram/skillsbills/blob/master/Strategy/Team%20Testing%20Workshop/teamtestingmural.png) if you aren't into mural.
